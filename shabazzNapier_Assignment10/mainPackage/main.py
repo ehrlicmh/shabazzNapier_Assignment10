@@ -6,6 +6,11 @@ Created: April 5, 2023
 Course: IS 4010
 Semester/Year: Spring 23
 Brief Description: This project demonstrates our ability to access an API, request information, and finally present the info.
+
+
+
+API KEY = 0kGH6V8UHGMqlnQiuMxFN1XNLPyrwfvu5gieRSYZ
+
 '''
 
 
